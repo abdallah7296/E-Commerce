@@ -1,0 +1,128 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>E_come</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="DTO\CategoryDTO\wwwroot\css\main.css" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\05afa05e-86b0-4328-af8d-769cd2cf7961_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\074cf4d2-3601-4e3b-983e-784ba609b43c_img1.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\0953e27e-4a8b-4b23-ba91-9e304935c4ec_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\0c39872a-c9cb-4848-83ab-7ba6ba78bc0e_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\0df376ab-1812-4681-8b61-f153f1cd9b95_IMG_20231025_165752_918.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\190921c1-5cc6-4b38-a912-cd86f3071ca0_OIP.jpeg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\1e5d1982-bd02-49e7-9202-e64df76261f8_41nIHWlKgVL._AC_SX522_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\23851057-ab41-4c74-a69f-643eaeaa43ed_5965380623055043536_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\23dbce0c-5f08-480c-a324-f763f363f9b8_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\2b60f5ef-394c-473f-88bb-88d01947dfea_71XbJsb-A+L._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\2b6c0bec-8994-4b11-a8a0-512329577b70_71XbJsb-A+L._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\2ea09aff-ac2a-4b29-8784-083b02e567f7_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\311761c9-7720-4cb1-9ffc-a44ebdecd14f_img1.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\3296c617-561c-4e07-956f-13ded0ee2649_71qNMTLE9EL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\32c13d8a-39da-4a7e-89d0-959692e1deb5_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\3394ffb6-de32-48b2-9acd-e4b44a85cfd9_IMG_2309.JPG" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\368fd33b-ede7-4f42-ae6e-06fb81aaf8f9_71XbJsb-A+L._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\3b4a2ce6-9ac3-429e-87f9-db5d5ac17c2a_5963171137259160068_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\3b965890-a84a-485a-9d00-4947f11c8329_photo_2022-03-30_15-24-38.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\3f892aa9-2450-413d-b669-dc68961c5cb1_5963171137259160065_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\48cb877b-3973-4f0b-9339-77516c64058f_5963171137259160071_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\4e5b0be1-ab7f-42bb-93ae-92dddb6222f1_images %2821%29.jpeg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\527d603d-7be9-4a4c-a437-07f86f4cdb9e_IMG_2296.JPG" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\558cb858-2053-4dd7-a7f9-784764a5571d_5965380623055043532_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\56a136ba-fa9a-44cf-9217-1aeed075ab05_5965380623055043532_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\5751c8b3-a8c3-4ec7-ae21-8270579aefd1_71qNMTLE9EL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\5db6c592-08f2-43bb-9350-884802a7732b_img1.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\668c27c9-1def-427a-9795-bca6a9568b88_img1.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\66c1f8cd-b1b3-4cd2-9ca4-1ed0057e44cc_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\6b962bff-6481-4095-9bf8-a78b10774870_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\6f854cc8-354d-4b3a-98c2-4e7f95f206a6_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\6f8c6fd8-2c21-4d40-94f8-ec5fc771db4f_71XbJsb-A+L._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\6f9a52fc-c77b-4c81-b728-b6353ad88e40_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\733eff0a-f9b0-4732-8e26-ef55048ed35f_pexels-pew-nguyen-13162091.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\779d8102-ee27-4fb7-ae88-dbdcbfe3e04b_IMG_9437.DNG" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\7868739c-1918-4e8a-86a3-ef06fea83cd9_img1.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\79936437-cdb0-470b-a6d8-a17993a5dc3d_5963171137259160067_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\7a37cb42-1b9e-45b5-9615-1fe2839430cc_3538.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\7b2afab5-b5fd-446c-8a32-8409c1c3e220_1653605754804.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\7bd85a84-89c3-426e-948c-9dee9a13ad00_61LPTFvUYML._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\7e87c9cd-3848-4c29-85a5-b2fbf38113d6_IMG_20231025_165752_918.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\7f15f8d8-883c-4c1f-99f8-2ad3b5105e6e_IMG_20231025_165752_918.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\833f04dc-bd07-4937-ac86-adbe7f529d7e_5963171137259160068_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\84320458-a34d-4c4f-8672-a0aa8e452377_5965380623055043532_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\86a9543a-8f34-4d28-8382-143111f4445b_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\8a36dbbf-a427-4c26-85ba-f002a8cd216f_img1.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\8d27eb2d-7dfc-4815-8b40-40d4973ee3fe_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\8f80112f-e381-445f-aee5-137d6d6c3062_images %2821%29.jpeg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\91a77052-91d5-4798-9982-f24658b34bad_5963171137259160071_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\9ac2ee1b-f172-40a3-a40d-18f6a2f76d30_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\a6ea40fd-cd24-4e6a-bfab-eed0bc69de32_imge2.png" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\a7c07971-1b91-4979-9a83-59f596df0746_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\a958b0a1-7825-44b8-9750-944696bcc296_5963171137259160065_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\aa960021-57d7-4cd8-96fa-f3676113c6fc_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ab445d45-93ab-4499-9048-277cc0f8ddf5_5963171137259160065_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\abae9c66-6e49-4566-9862-3c42220f40a6_5963171137259160067_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\b14fc9fa-dacf-4484-98f0-554eb5b9934f_71qNMTLE9EL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\b3c3403a-4309-4ed9-843d-3b4d7865b060_71XbJsb-A+L._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\b405be55-091b-4638-935b-6923c84b9d5b_71XbJsb-A+L._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\b63fd499-9d08-4382-948f-0857e6985338_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ba725ac5-d251-424b-9381-5e417ed9d216_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\bc0f51d0-4093-4b47-840f-3a37cf2ff0b6_61LPTFvUYML._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\bff0fcdf-edd0-43c1-bcbe-d88c7ac5fc43_41nIHWlKgVL._AC_SX522_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\c0080269-f3b3-4b54-b56b-d2365adde61b_41nIHWlKgVL._AC_SX522_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\c0c5d706-61b7-4b56-9051-ff707aa6e895_71qNMTLE9EL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\c26e5ee9-fb79-4cab-95f8-e62edc62095f_71qNMTLE9EL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\c643a03d-7d43-4ef0-bae0-489456aab18e_photo_2022-03-30_15-24-38.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\c6a9d1e2-88f1-4c64-9dd1-66fd9a71ce1a_IMG_9437.DNG" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\c8d0c795-cda3-4239-9369-9e9da07ecf56_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ca47e3d6-bd59-4835-a14d-63e8e6b79722_5963171137259160068_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\cca4b842-630f-4ff2-a7f2-5ae393987b8d_5963171137259160067_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\d30a8ee3-df5c-43f3-96ce-99e7a37e0b1d_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\d50ee2cd-7ae3-46fd-b743-5d0b6432ec15_71XbJsb-A+L._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\d75f2c50-4128-4e59-871f-241bf69259da_OIP.jpeg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\d797a071-7dd6-4566-ae15-374944fb8511_3538.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\d7bf7e14-1424-4136-9bff-0cbd372e6e6a_IMG_20231025_165752_918.webp" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\dcacda57-0c41-4c1a-9f8d-d690ce403440_images %2821%29.jpeg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\de72c093-faec-4d68-89e1-4cd78f42e915_5963171137259160066_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\e8013719-effd-4f83-a9f0-9fd8be42bc1f_5963171137259160065_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ebf794d2-87e3-46d5-a894-e7958df53022_5963171137259160069_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ef784be1-1c1f-400b-ba09-a2c8305080ea_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\f1705721-acdc-408a-a90b-c64c12039ba7_3538.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\f7c570e3-7d29-4c11-a6b8-f1a52f505061_5963171137259160065_121.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\fc5a1cec-79c0-4961-b4a6-04de0cd7f194_3538.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ffd5fcce-220c-4167-a4bf-76c098a12ac8_61ehwQF3GQL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ImagesCategory\2cdac378-166e-4c0e-b628-1f41fb3a4785_imge2.png" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ImagesCategory\4a5edeaa-8c2e-462e-91c0-c8d4d93bfb91_71qNMTLE9EL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ImagesCategory\c88812b6-efbf-44c6-9d5e-a5c4240b24d0_71qNMTLE9EL._AC_SL1500_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ImagesShop\01724633-c421-4f50-944c-36b35aebbc53_416LEteuq0L._AC_.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\ImagesShop\8c5bce43-0599-4c87-825a-0ee1dbc34959_pexels-pew-nguyen-13162091.jpg" />
+    <Content Include="DTO\CategoryDTO\wwwroot\images\imge2.png">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GSF.Core" Version="2.4.28" />
+    <PackageReference Include="MailKit" Version="4.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="7.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.13" />
+    <PackageReference Include="Microsoft.Azure.DocumentDB.Core" Version="2.22.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.15" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.15">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MimeKit" Version="4.4.0" />
+    <PackageReference Include="SendGrid" Version="9.29.2" />
+    <PackageReference Include="Stripe.net" Version="44.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="8.0.1" />
+  </ItemGroup>
+
+</Project>
