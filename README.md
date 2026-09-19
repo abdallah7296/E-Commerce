@@ -1,4 +1,4 @@
-# 🛍️ Bustan Mall — E-Commerce Platform
+# 🛍️ Graduation Project — Bustan Mall
 
 A backend-focused **E-Commerce Web API** for **Bustan Mall**, designed to connect customers with stores inside the mall. Customers can browse products, manage carts and orders, while store owners can apply to create stores and manage their products after approval.
 
